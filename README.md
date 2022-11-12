@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working on: **ALM control using modern DevOps tools on Salesforce**
 
-- 📘 Next items on my learning list: **Advanced Node.js, SalesforceFunctions , AWS**
+- 📘 Next items on my learning bucket: **Advanced Node.js, SalesforceFunctions , AWS**
 
 - 💬 Ask me about Salesforce, Apex, LWC, DevOps
 
