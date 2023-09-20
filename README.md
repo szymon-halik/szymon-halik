@@ -16,6 +16,3 @@
 <a href="https://trailblazer.me/id/shalik" target="blank"><img align="center" src="https://developer.salesforce.com/resource/images/trailhead-flogo.png" alt="szymon-halik" height="30" width="40" /></a>
 <a href="https://salesforce.stackexchange.com/users/89175/szymon-halik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="szymon-halik" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">My stats: </h3>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=szymon-halik)](https://git.io/streak-stats)
