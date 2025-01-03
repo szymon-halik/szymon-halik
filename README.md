@@ -1,11 +1,11 @@
 
 <h1> Hi 👋, I am Szymon</h1>
 
-<p>A Salesforce professional seeking and implementing quality solutions among the ecosystem</p>
+<p>A Salesforce professional seeking and implementing quality solutions among the ecosystem and beyod</p>
 
-- 🌱 I’m currently working on: **ALM control using modern DevOps tools on Salesforce**
+- 🌱 I’m currently working on: **AWS and Azure fundamentals**
 
-- 📘 Next items on my learning bucket: **Advanced Node.js, SalesforceFunctions , AWS**
+- 📘 Next items on my learning bucket: **Advanced DevOps, Networking, Kubernetes**
 
 - 💬 Ask me about Salesforce, Apex, LWC, DevOps
 
